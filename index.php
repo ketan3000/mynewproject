@@ -48,5 +48,5 @@ Was the merge successful [y/n]? Once you modify the code the enter : y
 
 2: git commit -m "merge commit"
 
-3: git push  the end
+3: git push
 
