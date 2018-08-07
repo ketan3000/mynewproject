@@ -29,7 +29,9 @@ git checkout branch_name
 How to pull file from the github server:
 
 git pull origin branch_name
+Git mergetool:
 
+https://gist.github.com/tony4d/3454372 
 
 
 
