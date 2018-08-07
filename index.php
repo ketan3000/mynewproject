@@ -50,3 +50,22 @@ Was the merge successful [y/n]? Once you modify the code the enter : y
 
 3: git push
 
+
+How to Setup in AWS or Other linux server
+
+sudo apt-get update
+sudo apt-get install git
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+Go to your folder path
+
+git init
+
+git clone https://github.com/ketan3000/mynewproject.git
+
+
+
+
+
