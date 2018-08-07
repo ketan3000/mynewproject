@@ -31,7 +31,21 @@ How to pull file from the github server:
 git pull origin branch_name
 
 Git mergetool:
-
+================
 https://gist.github.com/tony4d/3454372  
- 
 
+ketankumar@DESKTOP-OQIQPS3 MINGW64 /c/xampp/htdocs/mynewproject (master|MERGING)
+
+Run below command:
+
+1: git mergetool :
+Normal merge conflict for 'index.php':
+  {local}: modified file
+  {remote}: modified file
+/mingw64/libexec/git-core/git-mergetool--lib: line 128: C:/Program: No such file or directory
+index.php seems unchanged.
+Was the merge successful [y/n]? Once you modify the code the enter : y
+
+2: git commit -m "merge commit"
+
+3: git push
