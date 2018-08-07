@@ -65,6 +65,14 @@ git init
 
 git clone https://github.com/ketan3000/mynewproject.git
 
+Revert the Code:
+
+git reset --hard 0c7f7820840ae0641cbf249780ad96ad261d570c
+
+get the very latest SHA id to undo.
+
+git revert SHA
+
 
 
 
