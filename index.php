@@ -1,4 +1,4 @@
-1.Create a repositories in github or bigbucket and create a project in your repositories 
+1.Create a repositories in github or bigbucket and create a project in your repositories this
 example : https://github.com/ketan3000/mynewproject.git
 
 2. Clone the file in the local system:
