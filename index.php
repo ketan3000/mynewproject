@@ -35,4 +35,3 @@ Git mergetool:
 https://gist.github.com/tony4d/3454372  
  
 
-
